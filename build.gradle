@@ -1,0 +1,12 @@
+plugins {
+    id 'java'
+}
+
+group 'io.github.brawaru'
+version '1.0-SNAPSHOT'
+
+jar {
+    manifest {
+        attributes 'Main-Class': "io.github.brawaru.pathyjar.PathyJar"
+    }
+}
