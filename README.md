@@ -36,6 +36,6 @@ java -jar pathy-jar-1.0-SNAPSHOT.jar -cp cool-lib-1.0.0.jar -jar app.jar --app-a
 ## Downloads
 
 Latest artifact should be in GitHub [Releases][releases], but you can always
-build the project yourself. 
+build the project yourself.
 
-[releases]: 
+[releases]: https://github.com/Brawaru/pathy-jar/releases
